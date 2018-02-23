@@ -1,0 +1,83 @@
+/*body {
+	  background: url(garage.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+*/
+
+body {
+	background-color: gray;
+}
+
+  .img-circle {
+	  border-radius: 80%;
+	  width: 2%;
+  }
+
+h1{ 
+color: black;
+	text-align: center;
+	border: 1px solid black;
+    padding: 5px 10px;
+    background-color: lightblue;
+	border-radius: 35px;
+	font-family: 'Bungee Inline', cursive;
+}
+
+p {
+	text-align: center;
+	font-style: italic;
+	color: white;
+	
+}
+
+i {
+	color: white;
+}
+
+h2 {
+	color: black;
+	text-align: center;
+	border: 1px solid black;
+    padding: 5px 10px;
+    background-color: lightblue;
+	border-radius: 35px;
+	font-family: 'Bungee Inline', cursive;
+}
+
+h5 {
+	color: black;
+	font-weight: bold;
+}
+
+.car {
+	text-align:center;
+	color: black;
+}
+
+.placeholder {
+	    color:#d45252; 
+    margin:5px 0 0 0; 
+    display:inline;
+    float:right;
+}
+
+id {
+	color: red;
+}
+
+#contact-form {
+	border: 1px solid black;
+    padding: 5px 10px;
+	color: black;
+}
+
+.submit {
+	background-color: black;
+	color:white;
+}
+
+.submit:hover {
+	color:green;
+}

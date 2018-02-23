@@ -1,0 +1,62 @@
+body {
+	
+	  background: url(pexels2.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+h1 {
+	text-align: right;
+	color:red;
+	font-family: 'Metal Mania', cursive;
+}
+
+p {
+	color: red;
+	text-align:right;
+	font-size: 35px;
+font-family: 'Metal Mania', cursive;	
+}
+
+a:hover {
+	background-color: lime;
+}
+
+h4 {
+	color: red;
+	font-family: 'Metal Mania', cursive;
+}
+
+  .img-circle {
+	  border-radius: 80%;
+	  width: 2%;
+  }
+  
+ #footer {
+	 position: absolute;
+	 bottom: 0;
+	 width: 100%;
+	 height: 50px;
+	 text-align: center;
+ }
+ 
+ #tips {
+	border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 260px; 
+	color: white;
+	font-family: 'Lemon', cursive;
+ }
+ 
+ h3 {
+	 text-align: left;
+	color: white;
+	font-family: 'Bungee Inline', cursive;
+}
+
+ 
