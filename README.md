@@ -18,3 +18,9 @@ Social media icons after form is submitted are included that will take the custo
 # JS
 
 Seperate javascript file that runs after form is submitted.
+Script used:
+date = new Date()
+year = date.getFullYear()
+document.write(" ",year,"" )
+
+Javascript post current year on the submitted form.
